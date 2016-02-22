@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/CC/plugin/qDummyPlugin">
+        <file>MyPlugUtils/icons/general.png</file>
+        <file>MyPlugUtils/icons/connection.png</file>
+        <file>MyPlugUtils/icons/fast.png</file>
+        <file>MyPlugUtils/icons/accurate.png</file>
+        <file>MyPlugUtils/icons/accuratevec.png</file>
+        <file>MyPlugUtils/icons/calibration.png</file>
+        <file>MyPlugUtils/icons/moverobot.png</file>
+        <file>MyPlugUtils/icons/sendnbv.png</file>
+        <file>MyPlugUtils/icons/stop.png</file>
+        <file>MyPlugUtils/icons/scannow.png</file>
+        <file>MyPlugUtils/icons/prefrompts.png</file>
+        <file>MyPlugUtils/icons/loadprescan.png</file>
+        <file>MyPlugUtils/icons/loadsingleposition.png</file>
+    </qresource>
+</RCC>
